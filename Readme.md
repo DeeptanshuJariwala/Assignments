@@ -1,6 +1,6 @@
 # Deeptanshu Jariwala
 
-![Family](images/Deep.jpg "Myself")
+![Family](Deep.jpg "Myself")
 
 ## Where are you from?
 
@@ -15,7 +15,7 @@ I like helping out people even if I meet them first time. I have worked with a N
 
 ## Git-IT Tutorial Badge
 
-![Git Tutorial](images/badge.png "Result")
+![Git Tutorial](badge.png "Result")
 
 ## Tutorial Screenshots
 
