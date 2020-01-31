@@ -25,7 +25,7 @@ I like helping out people even if I meet them first time. I have worked with a N
 
 ![Git Tutorial](git-config.png "Configuration Screenshot")
 
-![Git Tutorial](ssh.png "Version Screenshot")
+![Git Tutorial](ssh.png "version Screenshot")
 
 ![Git Tutorial](vag-pac-ver.png "Version Screenshot")
 
