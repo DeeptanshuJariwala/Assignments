@@ -17,20 +17,18 @@ I like helping out people even if I meet them first time. I have worked with a N
 
 ![Git Tutorial](badge.png "Result")
 
-## Tutorial Screenshots
+##  Screenshots
 
-![Git Tutorial](images/Choco_Version_SS.png "Version Screenshot")
+![Git Tutorial](1.png "Version Screenshot")
 
-![Git Tutorial](images/Git_version_SS.png "Version Screenshot")
+![Git Tutorial](git.png "Version Screenshot")
 
-![Git Tutorial](images/NameEmail_config_SS.png "Configuration Screenshot")
+![Git Tutorial](git-config.png "Configuration Screenshot")
 
-![Git Tutorial](images/PackageMgr_version_SS.png "Version Screenshot")
+![Git Tutorial](ssh.png "Version Screenshot")
 
-![Git Tutorial](images/PowerShellCore6_output_SS.png "Output Screenshot")
+![Git Tutorial](vag-pac-ver.png "Version Screenshot")
 
-![Git Tutorial](images/VagrantPacker_version_SS.png "Version Screenshot")
+![Git Tutorial](VB6.png "Version Screenshot")
 
-![Git Tutorial](images/VirtualBox_version_SS.png "Version Screenshot")
-
-![Git Tutorial](images/VisualStudioCode_version_SS.png "Version Screenshot")
+![Git Tutorial](vs-code-ver.png "Version Screenshot")
